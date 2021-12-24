@@ -1,0 +1,20 @@
+{
+  "name": "hello",
+  "frontend:build": "",
+  "frontend:install": "",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "hello.exe",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "瑞涛 杨",
+    "email": "yangruitao@cd-hst.com"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
